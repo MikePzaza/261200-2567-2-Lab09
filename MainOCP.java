@@ -1,4 +1,4 @@
-public class Main {
+public class MainOCP {
     public static void main(String[] args) {
         AreaCalculator calculator = new AreaCalculator() ;
         Shape rectangle = new rectangle(6,10);
